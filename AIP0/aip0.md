@@ -45,25 +45,25 @@ The AIP Framework serves to empower each Assembly participant by giving them a s
 
 ### AIP0: Definitions of the Astroport Improvement Proposal Framework
 
-- **Astroport Improvement Proposals (AIPs):** - **Astroport Improvement Proposals (AIPs):** AIPs are standardized proposals subject to voting that define the behavior of the Astral Assembly and the Astroport Protocol. AIPs can be added, amended, replaced, and removed.
+- **Astroport Improvement Proposals (AIPs):** AIPs are standardized proposals subject to voting that define the behavior of the Astral Assembly and the Astroport Protocol. AIPs can be added, amended, replaced, and removed.
 -   **AIP Types:** AIPs can be either general or technical. General AIPs are sub-categorized as treasury, UI, tokenomic and generator.
 -   **Minimum Feedback Period:** The minimum amount of time within which the community can give feedback in response to a proposed ARC before it can advance to an on-chain vote (AIP).
--   **Minimum Frozen Period:** The minimum amount of time during which a AIP must remain unchanged before it can advance to an on-chain vote.
+-   **Minimum Frozen Period:** The minimum amount of time during which an AIP must remain unchanged before it can advance to an on-chain vote.
 -  **AIP Editor(s):** AIP Editors enforce the administrative and editorial aspects of the overall AIPs process.
 
 ---
 
 ### AIP0: Core Principles
 
-1. **Specificity:** A AIP must define and address a specific behavior or single responsibility.
+1. **Specificity:** An AIP must define and address a specific behavior or single responsibility.
 
-2. **Completeness:** A AIP must be thorough. Relevant, specific particulars must not be left undefined or unreferenced.
+2. **Completeness:** An AIP must be thorough. Relevant, specific particulars must not be left undefined or unreferenced.
 
 3. **Avoid overlap:** Multiple AIPs must not implement the same type of behavior independently. For instance, there should not be two separate, interchangeable ways to create new Astroport pool types.
 
-4. **Clarity:** A AIP must not have equally valid conflicting interpretations. A AIP must be as clear and easy to understand as possible.
+4. **Clarity:** An AIP must not have equally valid conflicting interpretations. A AIP must be as clear and easy to understand as possible.
 
-5. **Brevity:** A AIP must be as short as possible, including only what is essential given the other core principles.
+5. **Brevity:** An AIP must be as short as possible, including only what is essential given the other core principles.
 
 ---
 
@@ -71,9 +71,9 @@ The AIP Framework serves to empower each Assembly participant by giving them a s
 
 #### AIP Lifecycle Breakdown
 
-1. **Conception**: A AIP Author posts a ARC proposal on the [Astroport forum](https://forum.astroport.fi/) under the *Astroport Requests for Comments* category. From this point on, AIP Editors will be available to assist the AIP Author.
+1. **Conception**: An AIP Author posts a ARC proposal on the [Astroport forum](https://forum.astroport.fi/) under the *Astroport Requests for Comments* category. From this point on, AIP Editors will be available to assist the AIP Author.
 
-2. **Approved by AIP Editor(s)**: A AIP Editor verifies that the posted ARC proposal:
+2. **Approved by AIP Editor(s)**: An AIP Editor verifies that the posted ARC proposal:
 
    - Follows the appropriate format of the AIP Template for its type.
    - Is either an original AIP or a replacement for an older AIP.
@@ -110,7 +110,7 @@ In order to submit an AIP on-chain, the AIP submitter must call the `submit_prop
 
 #### Resubmission
 
-A AIP can be resubmitted to the Formal Submission process up to 3 times without having to go through phases 1-4 again if it failed to pass due to legitimate external reasons (e.g., potential low governance participation that did not meet the minimum on-chain quorum)
+An AIP can be resubmitted for an on-chain vote up to 3 times without having to go through phases 1-4 again if it failed to pass due to legitimate external reasons (e.g., potential low governance participation that did not meet the minimum on-chain quorum)
 
 A rejected AIP can be resubmitted.
 
@@ -118,27 +118,27 @@ A rejected AIP can be resubmitted.
 
 - **Withdrawn:** Assigned when a AIP Author withdraws their AIP proposal.
 
-  > A AIP may be withdrawn at any point before it enters an on-chain vote. Note that a withdrawn proposal can be taken over from the original Author with a simple transition facilitated by a AIP Editor and the respective parties. If the original AIP Author ceases to be available, a AIP Editor may proceed with the transfer of authorship.
+  > A AIP may be withdrawn at any point before it enters an on-chain vote. Note that a withdrawn proposal can be taken over from the original Author with a simple transition facilitated by an AIP Editor and the respective parties. If the original AIP Author ceases to be available, a AIP Editor may proceed with the transfer of authorship.
 
 - **Deferred:** Assigned when a proposal has been deemed as not ready or not a priority but can be re-proposed at a later date. This status can be assigned during ARC or by a rejecting forum poll or Signal Request.
 
 - **Obsolete:** Assigned when:
 
-  - A AIP has been superseded or deprecated.
-  - A AIP has been deferred for over six months.
-  - A AIP Author has abandoned the proposal and no person has communicated willingness to take over the responsibility of a AIP Author.
+  - An AIP has been superseded or deprecated.
+  - An AIP has been deferred for over six months.
+  - An AIP Author has abandoned the proposal and no person has communicated willingness to take over the responsibility of an AIP Author.
 
 #### AIP Status Change Process
 
-If a AIP Author requests a status change for a AIP, a AIP Editor will review it. If the status change is warranted, the AIP Editor will change the status. Otherwise, the AIP Editor will revert and highlight issues for the AIP Author to fix before requesting another status change.
+If an AIP Author requests a status change for an AIP, an AIP Editor will review it. If the status change is warranted, the AIP Editor will change the status. Otherwise, the AIP Editor will revert and highlight issues for the AIP Author to fix before requesting another status change.
 
 ---
 
 ### AIP0: AIP Replacement Process
 
-A AIP can define one or more replacement targets in its preamble. If the AIP is given the `Accepted` status, the replacement target(s) AIPs receive the `Obsolete` status and effectively become inactive. The replaced AIP will record the number of the AIP that replaced it. AIPs that depend on the replaced AIP will instead interact with the new AIP.
+An AIP can define one or more replacement targets in its preamble. If the AIP is given the `Accepted` status, the replacement target(s) AIPs receive the `Obsolete` status and effectively become inactive. The replaced AIP will record the number of the AIP that replaced it. AIPs that depend on the replaced AIP will instead interact with the new AIP.
 
-Since dependencies carry over, a AIP with defined replacement targets must strictly adhere to dependency requirements and interface correctly with AIPs that depend on the replaced AIP.
+Since dependencies carry over, an AIP with defined replacement targets must strictly adhere to dependency requirements and interface correctly with AIPs that depend on the replaced AIP.
 
 ---
 
