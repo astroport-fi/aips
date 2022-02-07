@@ -8,6 +8,7 @@ Author(s): <list of authors' names and/or email addresses and GitHub handles>
 Contributors:
 Tags: template
 Type: AIP Type (UI, Treasury, Tokenomic, Generator, Other)
+Category: Binding (Executable Purely On-Chain) vs. Signaling (Non-Binding Social Consensus Signal)
 Status: <Assigned by AIP Editor>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
