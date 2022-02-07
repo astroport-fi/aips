@@ -40,8 +40,8 @@ Markdown is a very simple markup language for formatting text, i.e., adding head
 
 #### Templates
 
-- Technical AIPs must conform to the [Technical AIP Template]().
-- General AIPs must conform to the [General AIP Template]().
+- Technical AIPs must conform to the [Technical AIP Template](https://github.com/astroport-fi/aips/blob/main/AIP0/General-AIP-Template.md).
+- General AIPs must conform to the [General AIP Template](https://github.com/astroport-fi/aips/blob/main/AIP0/General-AIP-Template.md).
 
 ### Proposing
 
@@ -53,7 +53,7 @@ Once you've picked the appropriate template for your proposal and have a workabl
 
 After the two above tasks have been completed, AIP Editors will help assign a number for the proposal. The proposed ARC will then enter a period of community feedback. This is a great opportunity to iterate on your proposal. Once the feedback period is over and you've incorporated your final changes, there will be a one-week period before you can formally submit the proposal for voting as an AIP. Lastly, your proposal will go through a voting period.
 
-For a more detailed breakdown of the full AIP lifecycle, check out [AIP0]().
+For a more detailed breakdown of the full AIP lifecycle, check out [AIP0](https://github.com/astroport-fi/aips/blob/main/AIP0/aip0.md).
 
 # License
 

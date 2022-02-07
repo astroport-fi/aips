@@ -5,7 +5,7 @@
 ```
 AIP#: 0
 Title: The Astroport Improvement Proposal Framework
-Author(s): Stefan Ionescu (@sionescu)
+Author(s): Stefan Ionescu (@stefanionescu)
 Contributors:
 Type: General
 Status: Draft
@@ -20,7 +20,7 @@ Forum URL: https://forum.astroport.fi/t/general-arc-0-the-astroport-improvement-
 
 ## Proposal Authors
 
-Stefan Ionescu (@sionescu).
+Stefan Ionescu (@stefanionescu).
 
 ## References
 
@@ -106,7 +106,7 @@ In order to submit an AIP on-chain, the AIP submitter must call the `submit_prop
     - `title` which is the title of the AIP. It must start with "AIP-" and the number of the AIP which was assigned by an AIP Editor. The AIP title must be maximum 64 characters long
     -  `description` which is a condensed description of the AIP, taken from the submitted (and associated) ARC on the community forum. The `description` must be maximum 1024 characters long
     - `link` which is a link to the associated ARC posted on the community forum. The `link` must be maximum `128` characters long
-    - `messages` which is the AIP payload that defines which contracts and parameters the AIP is meant to change 
+    - `messages` which is the AIP payload that defines which contracts and parameters the AIP is meant to change
 
 #### Resubmission
 
