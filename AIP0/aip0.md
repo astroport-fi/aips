@@ -77,7 +77,7 @@ The AIP Framework serves to empower each Assembly participant by giving them a s
 
    - Follows the appropriate format of the AIP Template for its type.
    - Is either an original AIP or a replacement for an older AIP.
-   - Has been submitted to the [AIPs GitHub](https://github.com/astroport-fi/aips) repository with a Pull Request by either the AIP Author or a AIP Editor.
+   - Has been submitted to the [AIPs GitHub](https://github.com/astroport-fi/aips) repository with a Pull Request by either the AIP Author or an AIP Editor.
 
    If the verification is successful, the AIP Editor:
 
@@ -116,9 +116,9 @@ A rejected AIP can be resubmitted.
 
 #### Other AIP Statuses
 
-- **Withdrawn:** Assigned when a AIP Author withdraws their AIP proposal.
+- **Withdrawn:** Assigned when an AIP Author withdraws their AIP proposal.
 
-  > A AIP may be withdrawn at any point before it enters an on-chain vote. Note that a withdrawn proposal can be taken over from the original Author with a simple transition facilitated by an AIP Editor and the respective parties. If the original AIP Author ceases to be available, a AIP Editor may proceed with the transfer of authorship.
+  > A AIP may be withdrawn at any point before it enters an on-chain vote. Note that a withdrawn proposal can be taken over from the original Author with a simple transition facilitated by an AIP Editor and the respective parties. If the original AIP Author ceases to be available, an AIP Editor may proceed with the transfer of authorship.
 
 - **Deferred:** Assigned when a proposal has been deemed as not ready or not a priority but can be re-proposed at a later date. This status can be assigned during ARC or by a rejecting forum poll or Signal Request.
 
@@ -146,7 +146,7 @@ Since dependencies carry over, an AIP with defined replacement targets must stri
 
 AIPs can optionally refer to external materials. External materials must be added to the [AIPs GitHub](https://github.com/astroport-fi/aips) in the same folder as the AIP which references them.
 
-Externally referenced materials are not AIP content and are not ratified when a AIP becomes `Accepted` unless it is explicitly stated otherwise in a AIP Component specification.
+Externally referenced materials are not AIP content and are not ratified when an AIP becomes `Accepted` unless it is explicitly stated otherwise in an AIP Component specification.
 
 ---
 
@@ -157,7 +157,7 @@ Externally referenced materials are not AIP content and are not ratified when a 
 - The General AIP Template is located at **[General-AIP-Template.md](General-AIP-Template.md)**.
 
 #### Technical AIP Template
-- The Technical AIP Template should be used for AIPs whenever a AIP proposes changes to the smart contract code within the Astroport Protocol.
+- The Technical AIP Template should be used for AIPs whenever an AIP proposes changes to the smart contract code within the Astroport Protocol.
 - The Technical AIP Template is located at **[Technical-AIP-Template.md](Technical-AIP-Template.md)**.
 ---
 
