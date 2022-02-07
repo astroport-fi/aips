@@ -61,7 +61,7 @@ The AIP Framework serves to empower each Assembly participant by giving them a s
 
 3. **Avoid overlap:** Multiple AIPs must not implement the same type of behavior independently. For instance, there should not be two separate, interchangeable ways to create new Astroport pool types.
 
-4. **Clarity:** An AIP must not have equally valid conflicting interpretations. A AIP must be as clear and easy to understand as possible.
+4. **Clarity:** An AIP must not have equally valid conflicting interpretations. An AIP must be as clear and easy to understand as possible.
 
 5. **Brevity:** An AIP must be as short as possible, including only what is essential given the other core principles.
 
