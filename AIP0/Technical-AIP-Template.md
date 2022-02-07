@@ -7,6 +7,7 @@ Title: <AIP title>
 Author(s): <List of authors' names and/or email addresses and GitHub handles>
 Contributors: <List of contributor's names and/or email addresses and GitHub handles>
 Tags: template
+Category: Binding (Executable Purely On-Chain) vs. Signaling (Non-Binding Social Consensus Signal)
 Status: <Assigned by AIP Editor>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
