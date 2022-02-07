@@ -40,7 +40,7 @@ Markdown is a very simple markup language for formatting text, i.e., adding head
 
 #### Templates
 
-- Technical AIPs must conform to the [Technical AIP Template](https://github.com/astroport-fi/aips/blob/main/AIP0/General-AIP-Template.md).
+- Technical AIPs must conform to the [Technical AIP Template](https://github.com/astroport-fi/aips/blob/main/AIP0/Technical-AIP-Template.md).
 - General AIPs must conform to the [General AIP Template](https://github.com/astroport-fi/aips/blob/main/AIP0/General-AIP-Template.md).
 
 ### Proposing
