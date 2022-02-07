@@ -10,7 +10,7 @@ Contributors:
 Type: General
 Status: Draft
 Date Proposed: 2022-02-08
-Date Ratified: 2022-02-08
+Date Ratified: 
 Last Amended: 2022-02-08
 Dependencies: n/a
 Replaces: n/a
