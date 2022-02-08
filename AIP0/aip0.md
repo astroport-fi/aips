@@ -118,7 +118,7 @@ An AIP can be resubmitted for an on-chain vote up to 3 times without having to g
 
   > A AIP may be withdrawn at any point before it enters an on-chain vote. Note that a withdrawn proposal can be taken over from the original Author with a simple transition facilitated by an AIP Editor and the respective parties. If the original AIP Author ceases to be available, an AIP Editor may proceed with the transfer of authorship.
 
-- **Deferred:** Assigned when a proposal has been deemed as not ready or not a priority but can be re-proposed at a later date. This status can be assigned during ARC or by a rejecting forum poll or Signal Request.
+- **Deferred:** Assigned when a proposal has been deemed as not ready or not a priority but can be re-proposed at a later date. This status can be assigned during ARC or by a rejecting forum poll.
 
 - **Obsolete:** Assigned when:
 
