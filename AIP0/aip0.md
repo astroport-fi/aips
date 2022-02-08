@@ -110,9 +110,7 @@ In order to submit an AIP on-chain, the AIP submitter must call the `submit_prop
 
 #### Resubmission
 
-An AIP can be resubmitted for an on-chain vote up to 3 times without having to go through phases 1-4 again if it failed to pass due to legitimate external reasons (e.g., potential low governance participation that did not meet the minimum on-chain quorum)
-
-A rejected AIP can be resubmitted.
+An AIP can be resubmitted for an on-chain vote up to 3 times without having to go through phases 1-4 again if it failed to pass due to legitimate external reasons (e.g., potential low governance participation that did not meet the minimum on-chain quorum).
 
 #### Other AIP Statuses
 
