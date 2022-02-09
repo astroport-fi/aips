@@ -30,9 +30,14 @@ We suggest switching from an APY display to an APR display and making more of th
 
 We propose that the website team should modify astroport.fi 13 to:
 
-    Display APRs for all reward types
-    Make clear that rewards rates are UST-denominated
-    Make clear that reward rates are projections based on the last 24 hours of performance.
+- Display APRs for all reward types
+- Make clear that rewards rates are UST-denominated
+- Make clear that reward rates are projections based on the last 24 hours of performance.
+
+We propose that the following points also be considered by the website team:
+
+- Should APYs still be displayed for reward types that are actually auto-compounded by the Astroport protocol (currently, only pool-trading-fee-rewards)?
+- Should APRs and APYs be calculated based on a longer period of time (e.g., average of reward rates over the prior 7 days)?
 
 ## Motivation
 
