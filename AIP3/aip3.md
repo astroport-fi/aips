@@ -1,4 +1,4 @@
-# AIP-2: LunaX<>Luna Pool Addition to Astroport DEX with Dual Incentives
+# AIP-3: LunaX<>Luna Pool Addition to Astroport DEX with Dual Incentives
 
 ## Preamble
 ```
@@ -57,7 +57,6 @@ _* Transaction volumes on Luna <> LunaX are lower vis-a-vis other pools as SD to
 
 _*The SD token incentives mentioned here are indicative and may change upon SD token TGE in early March._
 
+## Copyright
 
-### Licensing
-
-GNU General Public License v3.0
+Copyright and related rights waived via CC0.
