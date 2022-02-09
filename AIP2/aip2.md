@@ -7,6 +7,7 @@ Title: Delist Functionality for Specific Tokens in Generator
 Author(s): @stefanionescu
 Contributors: n/a
 Tags: technical, generator
+Category: Signaling (Non-Binding Social Consensus Signal)
 Status: Deferred
 Date Proposed: 2022-02-05
 Date Ratified:
