@@ -33,7 +33,7 @@ We suggest switching from an APY display to an APR display and making more of th
 
 Currently, the primary displayed token reward rate for each pool is a “Combined APY” figure. Hovering your cursor over the adjacent information bubble describes this as an “estimated Combined APY calculation” which “combines all individual APRs and assumes daily compounding.”:
 
-![toolip](/media/combined-apy-tooltip.png)
+![combined-apy-tooltip](/media/combined-apy-tooltip.png)
 
 Hovering your cursor over a given “Combined APY” figure yields a list of other APYs and a “Total APR”:
 
