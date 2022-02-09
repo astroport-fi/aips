@@ -28,7 +28,11 @@ We suggest switching from an APY display to an APR display and making more of th
 
 ## Abstract
 
+We propose that the website team should modify astroport.fi 13 to:
 
+    Display APRs for all reward types
+    Make clear that rewards rates are UST-denominated
+    Make clear that reward rates are projections based on the last 24 hours of performance.
 
 ## Motivation
 
