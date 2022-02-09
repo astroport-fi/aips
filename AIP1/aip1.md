@@ -29,6 +29,7 @@ We suggest switching from an APY display to an APR display and making more of th
 ## Abstract
 
 
+
 ## Motivation
 
 Currently, the primary displayed token reward rate for each pool is a “Combined APY” figure. Hovering your cursor over the adjacent information bubble describes this as an “estimated Combined APY calculation” which “combines all individual APRs and assumes daily compounding.”:
@@ -37,14 +38,15 @@ Currently, the primary displayed token reward rate for each pool is a “Combine
 
 Hovering your cursor over a given “Combined APY” figure yields a list of other APYs and a “Total APR”:
 
-
+![apy-figure-tooltip](./media/apy-figure-tooltip.png)
 
 The Astroport website Terms and Conditions state the following:
 
+![t&c](./media/t&c.png)
 
 In turn, the Astroport Disclaimers and Disclosures 1 set forth a series of explanations of how APYs and APRs are calculated and state that they are unlikely to be accurate, including because the APYs assume daily compounding, when in fact the Astroport protocol only compounds Pool APR:
 
-
+![disclaimers](./media/disclaimers.png)
 
 Although this explanation is helpful, it is not directly linked in the UI. Furthermore, it raises the question of why APY displays are useful, considering they assume compounding but many users may not extrinsically compound.
 
