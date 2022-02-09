@@ -6,13 +6,14 @@ AIP#: 3
 Title: LunaX<>Luna Pool Addition to Astroport DEX with Dual Incentives
 Author(s): @vbrpm
 Contributors: n/a
-Tags: technical, generator
+Tags: general, generator
+Type: Generator
+Category: Binding (Executable Purely On-Chain)
 Status: Deferred
 Date Proposed: 2022-02-05
 Date Ratified:
 Dependencies: n/a
 Replaces: n/a
-License: GNU General Public License v3.0
 ```
 
 ## Summary
