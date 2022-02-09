@@ -10,8 +10,7 @@ Contributors:
 Type: Other
 Status: Draft
 Date Proposed: 2022-02-08
-Date Ratified: 
-Last Amended: 2022-02-08
+Date Ratified:
 Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL:
