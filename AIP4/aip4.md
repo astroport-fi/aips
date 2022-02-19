@@ -10,9 +10,9 @@ Contributors: n/a
 Tags: general, generator
 Type: Generator
 Category: Binding (Executable Purely On-Chain)
-Status: <Assigned by AIP Editor>
+Status: Deferred
 Date Proposed: 2022-02-19
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 
 Dependencies: n/a
 Replaces: n/a
 ```
