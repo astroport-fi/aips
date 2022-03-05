@@ -10,7 +10,7 @@ Astroport Improvement Proposals are the main mechanism for improving the Astropo
 
 AIPs are standardized documents subject to community feedback and voting that, once enacted, define the behavior of the Astral Assembly and the Astroport Protocol.
 
-AIPs have two types: **technical** if they propose changes or additions to smart contracts code related to the Astroport Protocol; or **general** otherwise. The **general** category can be broadly categorized in four sub-categories: **treasury** for Astral Assembly treasury allocation, **UI** for proposing changes to and implementing interfaces that interact with the Astroport Protocol, **tokenomic** for proposing changes to ASTRO tokenomics and **generator** for proposing changes to ASTRO generator contract emissions.
+AIPs have two types: **technical** if they propose changes or additions to smart contract code related to the Astroport Protocol; or **general** otherwise. The **general** category can be broadly categorized in four sub-categories: **treasury** for Astral Assembly treasury allocation, **UI** for proposing changes to and implementing interfaces that interact with the Astroport Protocol, **tokenomic** for proposing changes to ASTRO tokenomics and **generator** for proposing changes to ASTRO generator contract emissions.
 
 Note that the **generator** sub-category is mostly relevant prior to vxASTRO being released and vxASTRO stakers taking over decisions regarding ASTRO emissions. Regardless, the **generator** sub-category may be used in case the Assembly wants to white or blacklist a specific token from the generator contract or enact any other change that cannot be handled by vxASTRO stakers.
 
