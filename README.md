@@ -2,6 +2,8 @@
 
 Astroport Improvement Proposals are the main mechanism for improving the Astroport Protocol as well as funding and coordinating the Astral Assembly. AIPs provide a mechanism for any community member to define key issues and suggest changes and additions to the system.
 
+![aip_lifecycle_illustration](./aip_lifecycle_illustration.png)
+
 # Overview
 
 ## Definitions
