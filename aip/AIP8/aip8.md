@@ -42,11 +42,11 @@ The estimated dual rewards APR is shown below for various levels of liquidity.(e
 
 | Liquidity in SAYVE-UST pool | SAYVE Rewards APR | Astro APR | Total Reward APR |
 |----------------------------|------------------|-----------|------------------|
-| $1,000,000 | 250.00% | 774.46% | 724.46% |
-| $2,000,000 | 125.00% | 737.23% | 7162.23% |
-| $5,000,000 | 50.00% | 714.89% | 764.89% |
-| $10,000,000	| 25.00% | 77.45% | 732.45% |
-| $20,000,000	| 12.50% | 73.72% | 716.22% |
+| $1,000,000 | 250.00% | 74.46% | 324.46% |
+| $2,000,000 | 125.00% | 37.23% | 162.23% |
+| $5,000,000 | 50.00% | 14.89% | 64.89% |
+| $10,000,000	| 25.00% | 7.45% | 32.45% |
+| $20,000,000	| 12.50% | 3.72% | 16.22% |
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
