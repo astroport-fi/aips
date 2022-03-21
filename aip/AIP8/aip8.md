@@ -1,4 +1,4 @@
-# AIP-4: ORNE<>UST Pool Addition to Astroport with Dual Incentives
+# AIP-8: SAYVE<>UST Pool Addition to Astroport with Dual Incentives
 
 ## Preamble
 
