@@ -36,9 +36,7 @@ To reduce price impact and volatility for $SAYVE and ensure that our store of va
 
 In order to grow the SAYVE-UST pool and protect the Sayve protocol’s funds, we propose a dual incentive campaign involving both $SAYVE and $ASTRO tokens.
 
-We propose that the Astral Assembly provides rewards in line with $SAYVE pool incentives which would be equivalent (given the current $SAYVE price) to approximately 1000 ASTRO
-
-tokens per day (365,000 ASTRO per year).
+We propose that the Astral Assembly provides rewards in line with $SAYVE pool incentives which would be equivalent (given the current $SAYVE price) to approximately 1000 ASTRO tokens per day (365,000 ASTRO per year).
 
 The estimated dual rewards APR is shown below for various levels of liquidity.(estimated APR values assume that $SAYVE = $0.01)
 
