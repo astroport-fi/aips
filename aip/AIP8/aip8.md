@@ -23,7 +23,6 @@ Add dual incentives to SAYVE<>UST pool on Astroport($SAYVE & $ASTRO token emissi
 
 ## Abstract
 
-
 Launched on [Pylon Gateway](https://gateway.pylon.money/tokens/sayve/) on December 21st, 2021, Sayve is a savings and earning protocol built on the Terra Blockchain, with an AI-powered Learn to Earn mechanism. Sayve aims to onboard the next generation of crypto users by helping combat education inflation and rewarding learning.
 
 For more details about SAYVE’s tokenomics, you can check out [our website](https://www.sayve.money/).
@@ -49,4 +48,5 @@ The estimated dual rewards APR is shown below for various levels of liquidity.(e
 | $20,000,000	| 12.50% | 3.72% | 16.22% |
 
 ## Copyright
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
