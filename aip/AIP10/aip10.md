@@ -108,3 +108,7 @@ None, as there is no new smart contract code to add.
 The methodology proposed above should be reviewed by the community for several weeks before the bLUNA-LUNA amplification can be scaled.
 
 Also, an important note: the stableswap pool code in Astroport treats A as A/2, meaning that an A of 30 should be set to 60 in the smart contract.
+
+### Licensing
+
+GNU General Public License v3.0
