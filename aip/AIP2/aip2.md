@@ -1,6 +1,7 @@
 # AIP-2: Delist Functionality for Specific Tokens in Generator
 
 ## Preamble
+
 ```
 AIP#: 2
 Title: Delist Functionality for Specific Tokens in Generator
