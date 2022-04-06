@@ -7,13 +7,14 @@ AIP#: 0
 Title: The Astroport Improvement Proposal Framework
 Author(s): Stefan Ionescu (@stefanionescu)
 Contributors:
+Tags: general
 Type: Other
+Category: Signaling (Non-Binding Social Consensus Signal)
 Status: Accepted
 Date Proposed: 2022-02-08
 Date Ratified:
 Dependencies: n/a
 Replaces: n/a
-Ratification Poll URL:
 ```
 
 ## Proposal Authors
