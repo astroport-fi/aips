@@ -8,13 +8,12 @@ Title: The Astroport Improvement Proposal Framework
 Author(s): Stefan Ionescu (@stefanionescu)
 Contributors:
 Type: Other
-Status: Draft
+Status: Accepted
 Date Proposed: 2022-02-08
 Date Ratified:
 Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL:
-Forum URL: https://forum.astroport.fi/t/general-arc-0-the-astroport-improvement-proposal-framework
 ```
 
 ## Proposal Authors
