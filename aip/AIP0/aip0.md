@@ -45,10 +45,10 @@ The AIP Framework serves to empower each Assembly participant by giving them a s
 ### AIP0: Definitions of the Astroport Improvement Proposal Framework
 
 - **Astroport Improvement Proposals (AIPs):** AIPs are standardized proposals subject to voting that define the behavior of the Astral Assembly and the Astroport Protocol. AIPs can be added, amended, replaced, and removed.
--   **AIP Types:** AIPs can be either general or technical. General AIPs are sub-categorized as treasury, UI, tokenomic and generator.
--   **Minimum Feedback Period:** The minimum amount of time within which the community can give feedback in response to a proposed ARC before it can advance to an on-chain vote (AIP).
--   **Minimum Frozen Period:** The minimum amount of time during which an AIP must remain unchanged before it can advance to an on-chain vote.
--  **AIP Editor(s):** AIP Editors enforce the administrative and editorial aspects of the overall AIPs process.
+- **AIP Types:** AIPs can be either general or technical. General AIPs are sub-categorized as treasury, UI, tokenomic and generator.
+- **Minimum Feedback Period:** The minimum amount of time within which the community can give feedback in response to a proposed ARC before it can advance to an on-chain vote (AIP).
+- **Minimum Frozen Period:** The minimum amount of time during which an AIP must remain unchanged before it can advance to an on-chain vote.
+- **AIP Editor(s):** AIP Editors enforce the administrative and editorial aspects of the overall AIPs process.
 
 ---
 
