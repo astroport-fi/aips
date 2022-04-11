@@ -1,10 +1,10 @@
-# ARC-11: Claim Assembly Ownership Over Four Core Astroport Contracts
+# ARC-11: Transfer Astroport Contract Parameter Control to Assembly
 
 ## Preamble
 
 ```
 AIP#: 11
-Title: Claim Assembly Ownership Over Four Core Astroport Contracts
+Title: Transfer Astroport Contract Parameter Control to Assembly
 Author(s): @stefan
 Contributors: n/a
 Tags: general, assembly
