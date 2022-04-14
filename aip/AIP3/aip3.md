@@ -10,7 +10,7 @@ Tags: general, generator
 Type: Generator
 Category: Binding (Executable Purely On-Chain)
 Status: Deferred
-Date Proposed: 2022-04-13
+Date Proposed: 2022-02-05
 Date Ratified:
 Dependencies: n/a
 Replaces: n/a
@@ -44,10 +44,9 @@ Based on feedback from our community, we would like to add additional SD rewards
 
 In order to further grow the LunaX-Luna pool, we propose a dual incentive mechanism.
 
-We propose that the Astral Assembly rewards the Luna <> LunaX LPs with 26,027 ASTRO tokens per day (9.5 M ASTRO per year). This results in an alloc_point value of 105,000 in the Generator contract.
+We propose that the Astral Assembly rewards the Luna <> LunaX LPs with 26,027 ASTRO tokens per day (9.5M ASTRO per year). This results in an `alloc_point` value of 105,000 in the Generator contract.
 
 The estimated APY is shown below for various levels of liquidity.
-
 
 | Liquidity in LunaX-Luna pool  | Stader Rewards APR | Astro APR  | Reward APR to User |
 | -----------------------------:|:------------------:| ----------:|-------------------:| 
@@ -56,7 +55,7 @@ The estimated APY is shown below for various levels of liquidity.
 | $250,000,000                  | 5.5%               | 11.7%      | 17.2%              |
 | $300,000,000                  | 4.6%               | 9.8%       | 14.4%              |
 
-The Stader (whSD) rewards contract address on Columbus is terra1g683f7ddlc4zfpwvk93sdky9q53jc6g3uwj09l.
+The Stader (whSD) rewards contract address on Columbus is `terra1g683f7ddlc4zfpwvk93sdky9q53jc6g3uwj09l`.
 
 _* Total SD token supply is 150 Mn._
 
