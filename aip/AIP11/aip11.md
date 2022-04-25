@@ -10,7 +10,7 @@ Contributors: n/a
 Tags: general, assembly
 Type: General
 Category: Binding (Executable Purely On-Chain)
-Status: Active
+Status: Accepted
 Date Proposed: 2022-04-07
 Date Ratified:
 Dependencies: n/a
