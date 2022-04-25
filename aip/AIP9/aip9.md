@@ -1,4 +1,4 @@
-# ARC-9: Incentivise weUSDC/UST pool with Astro
+# ARC-9: Incentivise Stablecoin Pools with ASTRO
 
 ## Preamble
 
