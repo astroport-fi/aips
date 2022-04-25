@@ -9,7 +9,7 @@ Author(s): @tatyana
 Contributors: n/a
 Tags: technical
 Category: Binding (Executable Purely On-Chain)
-Status: Deferred
+Status: Accepted
 Date Proposed: 2022-03-31
 Date Ratified:
 Dependencies: n/a
