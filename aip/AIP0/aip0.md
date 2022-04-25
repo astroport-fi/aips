@@ -1,4 +1,4 @@
-# AIP0: The Astroport Improvement Proposal Framework
+# AIP-0: The Astroport Improvement Proposal Framework
 
 ## Preamble
 
