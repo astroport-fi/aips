@@ -10,7 +10,7 @@ Contributors: n/a
 Tags: general, generator
 Type: Generator
 Category: Binding (Executable Purely On-Chain)
-Status: Deferred
+Status: Accepted
 Date Proposed: 2022-02-19
 Date Ratified: 
 Dependencies: n/a
