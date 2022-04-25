@@ -8,7 +8,7 @@ Title: Implement Bribed Voting Mechanism for vxASTRO Holders
 Author(s): @Megakupo
 Contributors: n/a
 Tags: technical
-Category: Binding (Executable Purely On-Chain)
+Category: Signaling (Non-Binding Social Consensus Signal)
 Status: Draft
 Date Proposed: 2022-03-13
 Date Ratified:
