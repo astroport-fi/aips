@@ -26,11 +26,10 @@ LunaX is an auto-compounding accrual token (similar to aUST) that can be minted 
 
 ## Motivation
 
-With over 20,000 wallets minting LunaX, LunaX is a widely used aUST style liquid staking derivative. LunaX is already used as a collateral on Mirror (Poll link here) and Edge protocol while several DeFi integrations are in the pipeline. Here are a few key details about LunaX:
+With over 20,000 wallets minting LunaX, LunaX is a widely used aUST style liquid staking derivative. LunaX is already used as a collateral on Mirror (Poll link [here](https://mirrorprotocol.app/#/gov/poll/225)) and Edge protocol while several DeFi integrations are in the pipeline. Here are a few key details about LunaX:
 
-1. Total Staked Luna: 1.9M Luna (155 M UST as on April 12th 2022)
-
-2. Total size of LunaX <> Luna LP Pool: 1.6M Luna (130 M UST as on April 12th 2022)
+* Total Staked Luna: 1.9 M Luna (155 M UST as on April 12th 2022)
+* Total size of LunaX <> Luna LP Pool: 1.6 M Luna (130 M UST as on April 12th 2022)
 
 Luna <> LunaX pool is the largest pool on Terraswap. Stader would like to work with Astroport & bring the LunaX-Luna liquidity to Astroport (if governance approved) benefiting both the Astroport and Stader communities.
 
@@ -44,25 +43,33 @@ Based on feedback from our community, we would like to add additional SD rewards
 
 In order to further grow the LunaX-Luna pool, we propose a dual incentive mechanism.
 
-We propose that the Astral Assembly rewards the Luna <> LunaX LPs with 26,027 ASTRO tokens per day (9.5M ASTRO per year). This results in an `alloc_point` value of 105,000 in the Generator contract.
+We propose that the Astral Assembly rewards the Luna <> LunaX LPs with 26,027 ASTRO tokens per day (9.5 M ASTRO per year). This results in an `alloc_point` value of 105,000 in the Generator contract.
 
 The estimated APY is shown below for various levels of liquidity.
 
-| Liquidity in LunaX-Luna pool  | Stader Rewards APR | Astro APR  | Reward APR to User |
-| -----------------------------:|:------------------:| ----------:|-------------------:| 
-| $150,000,000	                | 9.2%               | 19.5%      | 28.7%              |
-| $200,000,000                  | 6.9%               | 14.6%	  | 21.5%                |
-| $250,000,000                  | 5.5%               | 11.7%      | 17.2%              |
-| $300,000,000                  | 4.6%               | 9.8%       | 14.4%              |
+|Liquidity in LunaX-Luna pool|Stader Rewards APR|Astro APR|Reward APR to User|
+| --- | --- | --- | --- |
+|$150,000,000|9.2%|19.5%|28.7%|
+|$200,000,000|6.9%|14.6%|21.5%|
+|$250,000,000|5.5%|11.7%|17.2%|
+|$300,000,000|4.6%|9.8%|14.4%|
 
 The Stader (whSD) rewards contract address on Columbus is `terra1g683f7ddlc4zfpwvk93sdky9q53jc6g3uwj09l`.
 
-_* Total SD token supply is 150 Mn._
+## Update Based on Astro Community Feedback
 
-_** Transaction volumes on Luna <> LunaX are lower vis-a-vis other pools as farmed SD tokens are vested over 6 months from Feb - Jul ’22. Volume is expected to increase over time as farmed SD rewards vest._
+Thanks a lot for sharing your thoughts about the proposal. After hearing Astro community's feedback, we are revising the proposed Stader and Astro emissions as detailed below:
 
-_*** whSD is wormhole SD_
+- Bumping up SD token rewards by 60% to ~12000 SD tokens/ day
+- Reduced proposed Astro emissions by 40% to ~16500/ day (makes Alloc_pointer ~66650)
+- Makes the rewards composition 1:1 from SD and Astro emissions
+
+Happy to hear any thoughts/ suggestions from the community.
+
+* Total SD token supply is 150 Mn. 
+** Transaction volumes on Luna <> LunaX are lower vis-a-vis other pools as farmed SD tokens are vested over 6 months from Feb - Jul ’22. Volume is expected to increase over time as farmed SD rewards vest.
+***whSD is wormhole SD
 
 ## Copyright
 
-Copyright and related rights waived via CC0.
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
