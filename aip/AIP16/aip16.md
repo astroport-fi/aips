@@ -1,4 +1,4 @@
-#ARC-16: bLUNA-stLUNA Virtual Pool
+# ARC-16: bLUNA-stLUNA Virtual Pool
 
 ## Preamble
 
