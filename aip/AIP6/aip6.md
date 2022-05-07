@@ -29,7 +29,7 @@ Add ASTRO emissions to the MARS-UST pool.
 
 ## Abstract
 
-Mars is emerging as a significant member of the Terra ecosystem. There are no ASTRO emissions for the MARS-UST pool, however. As of 3/9/2022, with 13 days remaining to claim, there are approximately 8 million unclaimed ASTRO tokens (from Airdrop, and Airdrop 2). When the period to claim ASTRO tokens ends these tokens will return to the Astral Assembly. The unclaimed ASTRO tokens would kickstart the MARS-UST pool. It may be few or many. Whichever the case, the bi-weekly vote can address disparities, if any, in the quantity of ASTRO the MARS-UST pool is receiving
+Mars is emerging as a significant member of the Terra ecosystem. There are no ASTRO emissions for the MARS-UST pool, however.
 
 ## Motivation
 
@@ -38,11 +38,7 @@ This proposal would serve to establish initial emissions for the MARS-UST pool.
 
 ## Specification
 
-When Kujira transferred liquidity from Astroport their initial ASTRO emissions were distributed to all active pools. In a similar way, any unclaimed ASTRO from Astroport's airdrops 1 and 2 would be distributed but only to MARS-UST providers as they aren't receiving ASTRO at the moment.
-
-## Implementation
-
-Calculate total unclaimed ASTRO tokens when the period to claim the ASTRO airdrop ends. Apply its fractional value of ASTRO tokens to liquidity providers on a per block basis- in the same way the other pools distribute ASTRO to their providers.
+Propose to give the MARS-UST pool 1% of ASTRO incentives. Alloc Points = 11000.
 
 ## Copyright
 
