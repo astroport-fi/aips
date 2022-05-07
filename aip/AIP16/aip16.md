@@ -9,9 +9,9 @@ Author: Lidofinance
 Contributors: @kai, @spaydh and the Lido on Terra Team.
 Tags: <technical, smart-contracts>
 Category: Binding (Executable Purely On-Chain)
-Status: <>
+Status: Active
 Date Proposed: <2022-04-29>
-Date Ratified: <>
+Date Ratified:
 Dependencies: stluna/bluna staking contract
 Replaces: <null>
 License: <Apache-2.0>
