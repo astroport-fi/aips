@@ -147,6 +147,14 @@ Externally referenced materials are not AIP content and are not ratified when an
 
 ---
 
+### AIP0: Lifecycle Exceptions
+
+In the case of an ARC that aims to fix a smart contract vulnerability, the ARC can be published without a specific title or description or what it aims to solve and subsequently amended in case the on-chain proposal associated with it passes.
+
+This is to ensure that the vulnerability targeted by the ARC is not exploited prior to governance applying a fix.
+
+---
+
 ### AIP0: AIP Templates
 
 #### General AIP Template
